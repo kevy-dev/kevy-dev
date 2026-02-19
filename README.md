@@ -1,4 +1,4 @@
-## OLá 👋, eu sou a Ana Kevylly! 
+## Olá 👋, eu sou a Ana Kevylly! 
 
 <!--
 **kevy-dev/kevy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
